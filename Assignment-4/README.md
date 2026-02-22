@@ -25,5 +25,3 @@ The assignment explains:
 ##  File Included
 - Assignment 4.pdf
 
-## 👨‍🎓 Author
-Abhishek Nagaraj Choori
