@@ -26,5 +26,4 @@ The following topics are covered:
 ##  File Included
 - Assignment 3.pdf
 
-## 👨‍🎓 Author
-Abhishek Nagaraj Choori
+
